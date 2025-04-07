@@ -11,6 +11,14 @@ const config = {
   ],
   prefix: "",
   theme: {
+    fontSize: {
+      "13": "13px",
+      "14": "14px",
+      "15": "15px",
+      "16": "16px",
+      "17": "17px",
+      "18": "18px"
+    },
     container: {
       center: true,
       padding: "2rem",
@@ -67,14 +75,6 @@ const config = {
           600: "#475467",
           700: "#344054",
           900: "#101828"
-        },
-        fontSize: {
-          "13": "13px",
-          "14": "14px",
-          "15": "15px",
-          "16": "16px",
-          "17": "17px",
-          "18": "18px"
         }
       },
       backgroundImage: {
